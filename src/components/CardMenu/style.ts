@@ -114,6 +114,7 @@ export const ModalContent = styled.div`
         margin: 8px 8px 0 0;
 
         > img {
+          cursor: pointer;
           width: 16px;
           height: 16px;
         }
