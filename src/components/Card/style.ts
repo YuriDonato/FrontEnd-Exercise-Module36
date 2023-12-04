@@ -8,7 +8,6 @@ type Props = {
 
 export const Card = styled.div`
   width: 472px;
-  height: 398px;
   flex-shrink: 0;
   background-color: ${cores.branca};
 `

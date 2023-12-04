@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import { cores } from '../../styles'
 
 export const Container = styled.div`
-  width: 320px;
+  width: 100%;
   height: 346px;
   display: block;
   color: ${cores.begeEscuro};
@@ -27,7 +27,7 @@ export const Container = styled.div`
 `
 
 export const Image = styled.img`
-  width: 304px;
+  width: 100%;
   height: 167px;
   flex-shrink: 0;
 `
